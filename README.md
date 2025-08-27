@@ -20,12 +20,12 @@ The robot detects potholes, estimates their volume, and dispenses filler materia
 ### Robot Prototype
 | Full Bot | Side View |
 |----------|-----------|
-| ![Bot Image 1](images/bot1.jpg) | ![Bot Image 2](images/bot2.jpg) |
+| ![Bot Image 1](bot1.jpg) | ![Bot Image 2](bot2.jpg) |
 
 ### CAD Renders
 | Isometric | Front |
 |-----------|-------|
-| ![CAD Isometric](images/cad_iso.jpg) | ![CAD Front](images/cad_front.jpg) |
+| ![CAD Isometric](cad_iso.jpg) | ![CAD Front](cad_front.jpg) |
 
 *(Replace the file names with your actual image paths, e.g., `images/bot1.jpg`.)*
 
