@@ -19,15 +19,15 @@ It detects potholes, estimates their volume using **Arducam ToF camera + Open3D*
 ## Media
 
 ### Robot Prototype
-![Bitumen Buddy](images/bot2.jpg)
+![Bitumen Buddy](bot2.jpg)
 
 ### CAD Renders
 | Isometric | Front |
 |-----------|-------|
-| ![CAD Isometric](images/cad_iso.jpg) | ![CAD Front](images/cad_front.jpg) |
+| ![CAD Isometric](cad_iso.jpg) | ![CAD Front](cad_front.jpg) |
 
 ### Project Poster
-![Project Poster](images/poster.jpg)
+![Project Poster](poster.png)
 
 ## Project Report
 📄 [Download Report (PDF)](report.pdf)  
