@@ -30,8 +30,12 @@ It detects potholes, estimates their volume using **Arducam ToF camera + Open3D*
 <p align="center">
   <img src="poster.png" alt="Project Poster" width="600">
 </p>
-## Project Report
-📄 [Download Report (PDF)](report.pdf)  
+
+<p>
+  <a href="report.pdf" download>
+    📄 Download Report (PDF)
+  </a>
+</p>
 
 ## Skills Demonstrated
 - Embedded Systems (Arduino motor control, GPS logging, RC override)  
