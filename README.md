@@ -1,15 +1,15 @@
 # Bitumen Buddy – Semi-Autonomous Pothole Detection & Filling Robot
 
-## Overview
-Bitumen Buddy is a **semi-autonomous robot** developed as part of the **Design Practicum at IIT Mandi** for road maintenance automation.  
-The robot detects potholes, estimates their volume, and dispenses filler material to repair them, while allowing RC override for operator control.  
+## Description
+**Bitumen Buddy** is a **semi-autonomous robot** developed during the *Design Practicum at IIT Mandi*.  
+It detects potholes, estimates their volume using **Arducam ToF camera + Open3D**, and dispenses filler material with a **dual-servo mechanism**. The robot features a **4WD platform** with Arduino motor control, GPS logging, and RC override for manual operation.
 
 ## Features
-- **4WD mobility platform** with Arduino-based motor control, GPS logging, and RC override  
-- **Pothole detection** using YOLOv6 on Raspberry Pi  
-- **Depth sensing & volume estimation** with Arducam ToF camera and Open3D processing  
-- **Dual-servo dispensing system** for controlled material filling  
-- Designed for **field deployability** with modular and robust chassis  
+- Semi-autonomous pothole detection and filling  
+- 4WD mobility platform with GPS logging and RC override  
+- Depth-based volume estimation with Arducam ToF + Open3D  
+- Dual-servo dispensing system for controlled material delivery  
+- Modular and robust chassis for field deployability  
 
 ## Technical Stack
 - **Hardware:** Arduino, Raspberry Pi, Arducam ToF Camera, Dual Servo Mechanism  
@@ -17,17 +17,17 @@ The robot detects potholes, estimates their volume, and dispenses filler materia
 - **Design Tools:** CAD modeling (Isometric & Front views), Embedded C for motor control  
 
 ## Media
+
 ### Robot Prototype
-| Full Bot | Side View |
-|----------|-----------|
-| ![Bot Image 1](bot1.jpg) | ![Bot Image 2](bot2.jpg) |
+![Bitumen Buddy](images/bot2.jpg)
 
 ### CAD Renders
 | Isometric | Front |
 |-----------|-------|
-| ![CAD Isometric](cad_iso.jpg) | ![CAD Front](cad_front.jpg) |
+| ![CAD Isometric](images/cad_iso.jpg) | ![CAD Front](images/cad_front.jpg) |
 
-*(Replace the file names with your actual image paths, e.g., `images/bot1.jpg`.)*
+### Project Poster
+![Project Poster](images/poster.jpg)
 
 ## Project Report
 📄 [Download Report (PDF)](report.pdf)  
@@ -39,8 +39,6 @@ The robot detects potholes, estimates their volume, and dispenses filler materia
 - CAD Design and Mechatronic Integration  
 
 ## Future Work
-- Improve real-time detection performance with optimized models  
-- Enhance material dispensing precision with feedback control  
-- Integrate SLAM for fully autonomous navigation  
-
----
+- Optimize real-time detection performance with faster models  
+- Improve material dispensing precision  
+- Integrate SLAM for fully autonomous navigation
