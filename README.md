@@ -27,8 +27,9 @@ It detects potholes, estimates their volume using **Arducam ToF camera + Open3D*
 | ![CAD Isometric](cad_iso.jpg) | ![CAD Front](cad_front.jpg) |
 
 ### Project Poster
-![Project Poster](poster.png)
-
+<p align="center">
+  <img src="poster.jpg" alt="Project Poster" width="600">
+</p>
 ## Project Report
 📄 [Download Report (PDF)](report.pdf)  
 
